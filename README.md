@@ -1,6 +1,19 @@
 # Sales_Performance_Analysis_for_a_Telecom_Company_USA
 A Data Analysis Project that Analysed  the sales performance of a Telecommunication  company Based in the United State. The company’s sales transaction data generated over the past years was used for this  analysis.
 
+# Table Of Content
+[Project Overview](project-overview)  <br> <br>
+[Data Sources](data-sources) <br> <br>
+[Data Analysis Tools Used](data-analysis-tools-used) <br> <br>
+[Data Collection](data-collection) <br> <br>
+[Data Cleaning and Formatting](data-cleaning-and-formatting) <br> <br>
+[Loading Data into Power BI](loading-data-into-power-bi)<br> <br>
+[Exploratory Data Analysis](exploratory-data-analysis) <br> <br>
+[Data Analysis](data-analysis)   <br> <br>
+[Results and  Findings](results-and-findings)  <br> <br>
+[Recommendations](recommendations) <br> <br>
+
+
 # Project Overview
 This Data Analysis Project aims to provide  insights into the sales performance of a Telecommunication  company Based in the United State. 
 __About the Company__: The Telecommunication Company operates a B2B business model and  sells a wide variety of cell phones and devices, including __smartphones, tablets, smartwatches__.  They offer devices from all of the major manufacturers, such as Apple, Samsung, Google, and Motorola.
@@ -58,7 +71,7 @@ __Power BI__ <br> <br>
 __Database Inspection__ : In the initial data collection phase , I  inspected the company’s database using SQL code  to check for missing data (NULL) in each of the tables in the company’s database.
 I extracted the  required data for the purpose of the data analysis project using SQL complex query and SQL data aggregation .  
 
-# Data Cleaning/Formatting: 
+# Data Cleaning and Formatting: 
 - I used SQL codes to clean and format the data to conform to the required data format.
 - I downloaded the result of my SQL Queries from the company’s database  as a csv file to my PC. 
 # Loading Data into Power BI:
